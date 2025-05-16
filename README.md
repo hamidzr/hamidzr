@@ -15,10 +15,11 @@ I'm a Senior Software Engineer specializing in MLOps, distributed systems, and i
 
 ## 🔍 Find Me
 
-- 📧 Email: az@ariza.re
+- 📧 Email: az@arizare.com
 - 🔗 [LinkedIn](https://linkedin.com/in/hamidzare)
 - 📝 Man Page: `man ari` (just kidding, but wouldn't that be [fun](http://man.arizare.com/)?)
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamidzr&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hamidzr&theme=dark)](https://git.io/streak-stats)
