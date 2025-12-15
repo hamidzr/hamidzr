@@ -22,4 +22,4 @@ I'm a Senior Software Engineer specializing in MLOps, distributed systems, and i
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamidzr&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hamidzr&theme=dark)](https://git.io/streak-stats)
+[](https://ga.apps.latentbyte.com/p/O43QhnVoX)
