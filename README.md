@@ -11,7 +11,7 @@ DESCRIPTION
 
 ## 💻 What I Do
 
-I'm a Senior Software Engineer specializing in MLOps, distributed systems, and infrastructure for AI.
+I'm a Software Engineer specializing in MLOps, distributed systems, and infrastructure for AI.
 
 ## 🔍 Find Me
 
