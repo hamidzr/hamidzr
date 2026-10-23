@@ -13,6 +13,8 @@ DESCRIPTION
 
 I'm a Software Engineer specializing in MLOps, distributed systems, and infrastructure for AI.
 
+Selected work, with demos and source links: [arizare.com/projects](https://arizare.com/projects/)
+
 ## 🔍 Find Me
 
 - 📧 Email: az@arizare.com
